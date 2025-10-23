@@ -5,8 +5,7 @@ A modern, responsive React application built with Vite, Tailwind CSS, and cuttin
 ## 📸 Screenshots
 
 ### Home Page
-<img width="1907" height="848" alt="Screenshot (631)" src="https://github.com/user-attachments/assets/5e907112-1478-467d-876f-a510dca24e08" />
-
+<img width="1920" height="908" alt="Screenshot (629)" src="https://github.com/user-attachments/assets/337cc345-8ca9-4b92-becb-d67729634392" />
 
 
 ### Task Manager
