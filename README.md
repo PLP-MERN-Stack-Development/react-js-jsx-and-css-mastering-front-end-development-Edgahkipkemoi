@@ -5,6 +5,8 @@ A modern, responsive React application built with Vite, Tailwind CSS, and cuttin
 ## 📸 Screenshots
 
 ### Home Page
+<img width="1920" height="1080" alt="Screenshot (629)" src="https://github.com/user-attachments/assets/62a665c9-969b-4271-877f-4436c60b4f52" />
+
 ![Home Page Light Mode](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Home+Page+-+Light+Mode)
 ![Home Page Dark Mode](https://via.placeholder.com/800x400/1F2937/FFFFFF?text=Home+Page+-+Dark+Mode)
 
