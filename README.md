@@ -2,6 +2,10 @@
 
 A modern, responsive React application built with Vite, Tailwind CSS, and cutting-edge development practices. This project demonstrates component architecture, state management, API integration, and responsive design.
 
+
+🌐 **Live Demo:** [View on GitHub Pages](https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-Edgahkipkemoi/)
+
+
 ## 📸 Screenshots
 
 ### Home Page
