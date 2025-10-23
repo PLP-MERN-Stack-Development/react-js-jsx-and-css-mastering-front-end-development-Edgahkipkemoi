@@ -8,16 +8,13 @@ A modern, responsive React application built with Vite, Tailwind CSS, and cuttin
 <img width="1907" height="848" alt="Screenshot (631)" src="https://github.com/user-attachments/assets/5e907112-1478-467d-876f-a510dca24e08" />
 
 
-![Home Page Light Mode](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Home+Page+-+Light+Mode)
-![Home Page Dark Mode](https://via.placeholder.com/800x400/1F2937/FFFFFF?text=Home+Page+-+Dark+Mode)
 
 ### Task Manager
-![Task Manager]
+
 <img width="1913" height="868" alt="Screenshot (630)" src="https://github.com/user-attachments/assets/ef682e32-db35-415a-9651-0d62cb04c5b1" />
 
 
 
-(https://via.placeholder.com/800x400/10B981/FFFFFF?text=Task+Manager+Page)
 
 ### API Data Integration
 
@@ -26,7 +23,6 @@ A modern, responsive React application built with Vite, Tailwind CSS, and cuttin
 <img width="1907" height="848" alt="Screenshot (631)" src="https://github.com/user-attachments/assets/ebe8bb40-5d40-4251-a0dd-9ce2207892e9" />
 
 
-(https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=API+Data+Integration)
 
 
 ## 🌟 Features
