@@ -17,7 +17,7 @@ A modern, responsive React application built with Vite, Tailwind CSS, and cuttin
 
 ### API Data Integration
 
-![API Data Page]
+
 
 <img width="1907" height="848" alt="Screenshot (631)" src="https://github.com/user-attachments/assets/ebe8bb40-5d40-4251-a0dd-9ce2207892e9" />
 
